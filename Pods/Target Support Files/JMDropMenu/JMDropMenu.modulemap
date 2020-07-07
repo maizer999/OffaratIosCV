@@ -1,0 +1,6 @@
+framework module JMDropMenu {
+  umbrella header "JMDropMenu-umbrella.h"
+
+  export *
+  module * { export * }
+}
